@@ -6,11 +6,11 @@ permalink: /awards.html
 
 <style>
     .jumbotron {
-        background-position: top !important;
+        background-position: center !important;
     }
 </style>
 
-{% include feature/jumbotron.html objectid="objects/awar.jpg" %}
+{% include feature/jumbotron.html objectid="objects/award.jpg" %}
 
 ## Accolades of the Comedy Princess
 
